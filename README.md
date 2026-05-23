@@ -1,4 +1,4 @@
-# Robert Leech — Computational Neuroscience & AI for the Brain
+# Robert Leech — Computational Cognitive and Clinical Neuroscience & AI for the Brain
 
 **Professor of Neuroimaging Analytics · King's College London**  
 ---

@@ -62,3 +62,5 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=ABXsGSkAAA
 ---
 
 *Open to collaborations, advisory roles, and industry partnerships in AI, neurotechnology, and healthcare.*
+
+@ActiveNeuroImaging is my legacy research account

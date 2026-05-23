@@ -14,7 +14,7 @@ I build machine learning and computational methods to understand how the brain w
 - **Biomarker discovery** — applying ML to psychiatric and neurological disorders (ASD, epilepsy, psychosis, traumatic brain injury)
 - **Reproducibility & robust methods** — multiverse analysis, entropy-based approaches, and rigorous pipeline evaluation
 
-I'm based at the [Institute of Psychiatry, Psychology & Neuroscience (IoPPN)](https://www.kcl.ac.uk/ioppn), King's College London, and affiliated with the [Wellcome EPSRC Centre for Medical Engineering](https://www.kcl.ac.uk/research/centre-for-medical-engineering-1).
+I'm based at the [Institute of Psychiatry, Psychology & Neuroscience (IoPPN)](https://www.kcl.ac.uk/ioppn), King's College London.
 
 ---
 

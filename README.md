@@ -57,7 +57,6 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=ABXsGSkAAA
 ## Get in touch
 
 📧 robert.leech@kcl.ac.uk  
-📧 robert.leech@kcl.ac.uk  
 🏛 [King's College London profile](https://www.kcl.ac.uk/people/rob-leech)  
 
 ---

@@ -1,8 +1,6 @@
 # Robert Leech — Computational Neuroscience & AI for the Brain
 
 **Professor of Neuroimaging Analytics · King's College London**  
-*Clarivate Highly Cited Researcher 2025 · h-index 75 · 30,000+ citations*
-
 ---
 
 ## About me

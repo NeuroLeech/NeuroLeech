@@ -26,7 +26,7 @@ I'm based at the [Institute of Psychiatry, Psychology & Neuroscience (IoPPN)](ht
 | [MultimodalActiveAcquisition](https://github.com/ActiveNeuroImaging/MultimodalActiveAcquisition) | Neuroadaptive multimodal data acquisition |
 | [into-the-multiverse](https://github.com/Mind-the-Pineapple/into-the-multiverse) | Guided multiverse analysis for neuroimaging (Nature Communications 2022) |
 | [strokeLoop](https://github.com/romylorenz/strokeLoop) | Bayesian optimisation for mapping stroke network function (Brain 2021) |
-| [AutoNeuro](https://github.com/NeuroLeech/AutoNeuro) | AutoNeuro: modular Python toolbox for performing online fMRI experiments with Bayesian optimization (Preprint, 2026) | 
+| [AutoNeuro](https://github.com/NeuroLeech/AutoNeuro) | AutoNeuro: modular Python toolbox for performing online fMRI experiments with Bayesian optimization | 
 
 ---
 
